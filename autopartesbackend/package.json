@@ -1,0 +1,17 @@
+{
+  "name": "autopartes",
+  "version": "1.0.0",
+  "description": "Car parts store",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Wilmar Peña - Juan Castro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}
