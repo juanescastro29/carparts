@@ -12,13 +12,7 @@ Si se quiere ejecutar de forma local, la api se ejecutara en el http://localhost
 
 ### Pre-requisitos 📋
 
-Utilizando node js
-Express
-React JS
-Nodemon
-Taildwind
-Daisyui
-Morgan
+Utilizando el stack MERN
 
 ### Instalación 🔧
 * Dependencias utilizadas en el desarrollo de la api:
