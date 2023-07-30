@@ -21,22 +21,17 @@ Daisyui
 Morgan
 
 ### Instalación 🔧
-* Como dependencias se utilizo:
+* Dependencias utilizadas en el desarrollo:
   
-* express
-npm install express 
+* express -> npm install express 
 
-* Nodemon
-npm install nodemon 
+* Nodemon -> npm install nodemon 
 
-* morgan
-npm install morgan
+* morgan -> npm install morgan
   
-* tailwind
-npm install tailwindcss
+* tailwind -> npm install tailwindcss
 
-* daisyui
-npm install daisyui
+* daisyui -> npm install daisyui
 
 ## Autores ✒️
 
