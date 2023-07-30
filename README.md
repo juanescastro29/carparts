@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-Car parts store
+# Car parts store
 
 ## Comenzando 🚀
 Aplicacion desarrollada con el stack MERN 
@@ -20,6 +18,7 @@ Utilizando el stack MERN
   ***nodemon** -> npm install nodemon*<br>
   ***morgan** -> npm install morgan*<br>
   ***dotenv** -> npm install dotenv*<br>
+  ***cors** -> npm install cors*<br>
 
 * Dependencias utilizadas en el desarrollo de la app:<br>
   ***tailwind** -> npm install tailwindcss*<br>
