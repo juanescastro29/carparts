@@ -22,20 +22,21 @@ Morgan
 
 ### Instalación 🔧
 * Como dependencias se utilizo:
+  
 * express
-  npm install express 
+npm install express 
 
 * Nodemon
-  npm install nodemon 
+npm install nodemon 
 
 * morgan
-  npm install morgan
+npm install morgan
   
 * tailwind
-  npm install tailwindcss
+npm install tailwindcss
 
 * daisyui
-  npm install daisyui
+npm install daisyui
 
 ## Autores ✒️
 
