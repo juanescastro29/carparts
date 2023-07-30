@@ -8,7 +8,7 @@ La api se encuentra desplegada en Render https://store-api-1t1r.onrender.com/api
 La base de datos que se uso es Mongodb a través del servicio de MongoDB Atlas
 La app fue desplegada mendiante el servicio de Vercel https://car-parts-store-app.vercel.app/
 
-Si se quiere ejecutar de forma local, la api se ejecutara en el puerto 4000 y el aplicativo de react en el puerto 3000
+Si se quiere ejecutar de forma local, la api se ejecutara en el http://localhost:4000 y el aplicativo de react en el puerto http://localhost:3000
 
 ### Pre-requisitos 📋
 
