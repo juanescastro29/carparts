@@ -16,16 +16,16 @@ Utilizando el stack MERN
 
 ### Instalación 🔧
 * Dependencias utilizadas en el desarrollo de la api:<br>
-  *express -> npm install express*<br>
-  *Nodemon -> npm install nodemon*<br>
-  *morgan -> npm install morgan*<br>
-  *dotenv -> npm install dotenv*<br>
+  ***express** -> npm install express*<br>
+  ***nodemon** -> npm install nodemon*<br>
+  ***morgan** -> npm install morgan*<br>
+  ***dotenv** -> npm install dotenv*<br>
 
 * Dependencias utilizadas en el desarrollo de la app:<br>
-  *tailwind -> npm install tailwindcss*<br>
-  *daisyui -> npm install daisyui*<br>
-  *react-router-don -> npm install react-router-dom*<br>
-  *react-hook-form -> npm install react-hook-form*<br>
+  ***tailwind** -> npm install tailwindcss*<br>
+  ***daisyui** -> npm install daisyui*<br>
+  ***react-router-don** -> npm install react-router-dom*<br>
+  ***react-hook-form** -> npm install react-hook-form*<br>
 
 ## Autores ✒️
 
