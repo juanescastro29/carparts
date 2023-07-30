@@ -21,17 +21,17 @@ Daisyui
 Morgan
 
 ### Instalación 🔧
-* Dependencias utilizadas en el desarrollo:
-  
+* Dependencias utilizadas en el desarrollo de la api:
 * express -> npm install express 
-
 * Nodemon -> npm install nodemon 
-
 * morgan -> npm install morgan
-  
-* tailwind -> npm install tailwindcss
+* dotenv -> npm install dotenv
 
+* Dependencias utilizadas en el desarrollo de la app
+* tailwind -> npm install tailwindcss
 * daisyui -> npm install daisyui
+* react-router-don -> npm install react-router-dom
+* react-hook-form -> npm install react-hook-form
 
 ## Autores ✒️
 
