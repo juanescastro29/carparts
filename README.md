@@ -23,7 +23,7 @@ Utilizando el stack MERN
 * Dependencias utilizadas en el desarrollo de la app:<br>
   ***tailwind** -> npm install tailwindcss*<br>
   ***daisyui** -> npm install daisyui*<br>
-  ***react-router-don** -> npm install react-router-dom*<br>
+  ***react-router-dom** -> npm install react-router-dom*<br>
   ***react-hook-form** -> npm install react-hook-form*<br>
 
 ## Autores ✒️
